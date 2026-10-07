@@ -1,6 +1,6 @@
 services:
   abs-overdrive-provider:
-    image: ghcr.io/YOUR_GITHUB_USERNAME/abs-overdrive-provider:latest
+    image: ghcr.io/Namosen/abs-overdrive-provider:latest
     container_name: abs-overdrive-provider
     restart: unless-stopped
     ports:
